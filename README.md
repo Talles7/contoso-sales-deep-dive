@@ -17,6 +17,12 @@ O objetivo era responder de forma cirúrgica: **Qual categoria de produto lidero
 O script estruturado para responder a essa pergunta de negócio está disponível no arquivo:
 👉 `analise_pico_vendas_2008.sql`
 
+## 📊 Resultado da Análise (Output)
+Abaixo está a visualização dos dados e do ranking gerado diretamente pelo banco de dados SQL Server:
+
+<img width="1172" height="1065" alt="image" src="https://github.com/user-attachments/assets/410a92dd-6cd3-4b75-ba1e-d421828f5e56" />
+
+
 ## 💡 O que esse resultado traria para o Negócio? (Insights)
 Ao executar essa análise estruturada, o negócio consegue:
 1. **Evitar Ruptura de Estoque (Stockout):** Saber exatamente o que o cliente compra no último sábado antes do Natal permite abastecer as gôndolas e os centros de distribuição com antecedência.
